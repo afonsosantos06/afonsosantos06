@@ -44,22 +44,23 @@ Below are some of my key projects, including independent work and major collabor
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 1]** | [Short description of what the project does and your role] | Python, Scikit-learn | [Link to Repo](https://github.com/...) |
-| **[Collaborative Project Name]** | [Description of the project]. *Major Contributor - Originally started by a colleague.* | Python, Pandas | [Link to Repo](https://github.com/...) |
+| **[Students Prediction]** | Machine learning system to predict student exam results using the UCI dataset to identify at-risk students. *Co-author of the pipeline & models.* | Python, Scikit-learn, Pandas | [Link to Repo](https://github.com/afonsosantos06/Students_Prediction) |
+| **[Machine Learning Models Comparison]** | Evaluated and compared various ML models including Fuzzy SVM and KMeans. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/afonsosantos06/ml-1) |
 
 ### Artificial Intelligence
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 2]** | [Short description of the AI model or application] | Python, TensorFlow/PyTorch | [Link to Repo](https://github.com/...) |
-| **[Collaborative AI Project]** | [Description of the project]. *Major Contributor - Handled model training and optimization.* | Python, OpenAI API | [Link to Repo](https://github.com/...) |
+| **[Neural Network in C (MNIST)]** | Fully implemented 3-layer feedforward neural network from scratch in C with backpropagation. | C, Math | [Link to Repo](https://github.com/afonsosantos06/LLM_c) |
+| **[Decision Trees Project]** | Developed and analyzed binary and multiway decision tree algorithms for AI classification tasks. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/afonsosantos06/ia-projeto) |
 
 ### Web Development & Databases
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 3]** | [Short description of the web app or database architecture] | React, SQL | [Link to Repo](https://github.com/...) |
-| **[Collaborative Web App]** | [Description of the project]. *Major Contributor - Developed the backend and database schemas.* | TypeScript, React, SQL | [Link to Repo](https://github.com/...) |
+| **[AppTJC]** | Modern full-stack web application with database management and Docker orchestration. *Major Contributor - Originally started by a friend.* | React, Node.js, MySQL, Docker | [Link to Repo](https://github.com/johnpierrre/AppTJC) |
+| **[DisneyPlus Database Design]** | Designed an ER model and implemented a comprehensive relational database system for a streaming platform. | SQL, Relational Databases | [Link to Repo](https://github.com/afonsosantos06/DisneyPlusDB) |
+| **[C Compiler]** | Development of a C compiler implemented from scratch. | Go, C | [Link to Repo](https://github.com/afonsosantos06/Compiler_C) |
 
 ## GitHub Stats
 
