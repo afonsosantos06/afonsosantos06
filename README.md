@@ -45,7 +45,7 @@ Below are some of my key projects, including independent work and major collabor
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **Students Prediction** | Machine learning system to predict student exam results using the UCI dataset to identify at-risk students. *Co-author of the pipeline & models.* | Python, Scikit-learn, Pandas | [Link to Repo](https://github.com/afonsosantos06/Students_Prediction) |
-| **Fuzzy SVM vs outliers** | Evaluated and compared various ML models including Fuzzy SVM. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers |
+| **Fuzzy SVM vs outliers** | Evaluated and compared various ML models including Fuzzy SVM. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers) |
 
 ### Artificial Intelligence
 
