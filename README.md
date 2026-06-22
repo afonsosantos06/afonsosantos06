@@ -44,23 +44,23 @@ Below are some of my key projects, including independent work and major collabor
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Students Prediction]** | Machine learning system to predict student exam results using the UCI dataset to identify at-risk students. *Co-author of the pipeline & models.* | Python, Scikit-learn, Pandas | [Link to Repo](https://github.com/afonsosantos06/Students_Prediction) |
-| **[Fuzzy SVM vs outliers]** | Evaluated and compared various ML models including Fuzzy SVM. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers |
+| **Students Prediction** | Machine learning system to predict student exam results using the UCI dataset to identify at-risk students. *Co-author of the pipeline & models.* | Python, Scikit-learn, Pandas | [Link to Repo](https://github.com/afonsosantos06/Students_Prediction) |
+| **Fuzzy SVM vs outliers** | Evaluated and compared various ML models including Fuzzy SVM. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers |
 
 ### Artificial Intelligence
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Neural Network in C (MNIST)]** | Fully implemented 3-layer feedforward neural network from scratch in C with backpropagation. | C, Math | [Link to Repo](https://github.com/afonsosantos06/LLM_c) |
-| **[ID3 and MCTS PopOut Game]** | Developed and analyzed MCTS and multiway decision tree algorithms for PopOut Game. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/adavidampereira/MCTS-ID3-PopOut) |
+| **Neural Network in C (MNIST)** | Fully implemented 3-layer feedforward neural network from scratch in C with backpropagation. | C, Math | [Link to Repo](https://github.com/afonsosantos06/LLM_c) |
+| **ID3 and MCTS PopOut Game** | Developed and analyzed MCTS and multiway decision tree algorithms for PopOut Game. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/adavidampereira/MCTS-ID3-PopOut) |
 
 ### Web Development & Databases
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[AppTJC]** | Modern full-stack web application with database management and Docker orchestration. *Major Contributor - Originally started by a friend.* | React, Node.js, MySQL, Docker | [Link to Repo](https://github.com/johnpierrre/AppTJC) |
-| **[DisneyPlus Database Design]** | Designed an ER model and implemented a comprehensive relational database system for a streaming platform. | SQL, Relational Databases | [Link to Repo](https://github.com/afonsosantos06/DisneyPlusDB) |
-| **[C Compiler]** | Development of a C compiler implemented from scratch. | Go, C | [Link to Repo](https://github.com/afonsosantos06/Compiler_C) |
+| **AppTJC** | Modern full-stack web application with database management and Docker orchestration. *Major Contributor - Originally started by a friend.* | React, Node.js, MySQL, Docker | [Link to site](https://www.javardemica.org/) |
+| **DisneyPlus Database Design** | Designed an ER model and implemented a comprehensive relational database system for a streaming platform. | SQL, Relational Databases | [Link to Repo](https://github.com/afonsosantos06/DisneyPlusDB) |
+| **C Compiler** | Development of a C compiler implemented from scratch. | Go, C | [Link to Repo](https://github.com/afonsosantos06/Compiler_C) |
 
 ## GitHub Stats
 
