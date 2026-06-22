@@ -45,14 +45,14 @@ Below are some of my key projects, including independent work and major collabor
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **[Students Prediction]** | Machine learning system to predict student exam results using the UCI dataset to identify at-risk students. *Co-author of the pipeline & models.* | Python, Scikit-learn, Pandas | [Link to Repo](https://github.com/afonsosantos06/Students_Prediction) |
-| **[Machine Learning Models Comparison]** | Evaluated and compared various ML models including Fuzzy SVM and KMeans. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/afonsosantos06/ml-1) |
+| **[Fuzzy SVM vs outliers]** | Evaluated and compared various ML models including Fuzzy SVM. | Python, Scikit-learn, SciPy | [Link to Repo](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers |
 
 ### Artificial Intelligence
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **[Neural Network in C (MNIST)]** | Fully implemented 3-layer feedforward neural network from scratch in C with backpropagation. | C, Math | [Link to Repo](https://github.com/afonsosantos06/LLM_c) |
-| **[Decision Trees Project]** | Developed and analyzed binary and multiway decision tree algorithms for AI classification tasks. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/afonsosantos06/ia-projeto) |
+| **[ID3 and MCTS PopOut Game]** | Developed and analyzed MCTS and multiway decision tree algorithms for PopOut Game. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/adavidampereira/MCTS-ID3-PopOut) |
 
 ### Web Development & Databases
 
