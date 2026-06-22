@@ -52,7 +52,7 @@ Below are some of my key projects, including independent work and major collabor
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **Neural Network in C (MNIST)** | Fully implemented 3-layer feedforward neural network from scratch in C with backpropagation. | C, Math | [Link to Repo](https://github.com/afonsosantos06/LLM_c) |
-| **ID3 and MCTS PopOut Game** | Developed and analyzed MCTS and multiway decision tree algorithms for PopOut Game. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/adavidampereira/MCTS-ID3-PopOut) |
+| **ID3 and MCTS PopOut Game** | Developed and analyzed MCTS and multiway decision tree algorithms for PopOut Game. | Python, NumPy, Jupyter | [Link to Repo](https://github.com/davidampereira/MCTS-ID3-PopOut) |
 
 ### Web Development & Databases
 
